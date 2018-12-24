@@ -3,7 +3,7 @@
   src:url('http://hackclub.com/fonts/averta-regular.woff');
 }
 
-html {
+body {
   font-family: 'Averta';
 }
 
